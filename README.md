@@ -14,7 +14,8 @@ What it does
 - Retrieves relevant information when answering questions
 - Keeps your data on your machine
 
-The more you feed Hungry AI, the more it understands your projects, interests, workflows, and knowledge. Instead of relying only on a generic model, it answers using information that matters to you. **Remeber your data is YOUR data.
+The more you feed Hungry AI, the more it understands your projects, interests, workflows, and knowledge. Instead of relying only on a generic model, it answers using information that matters to you. **Remeber your data is YOUR data.**
+
 *A Retrieval-Augmented Generation (RAG) system that searches, retrieves, and reasons over external knowledge sources to generate accurate, context-aware responses. With built in web and document crawlers.*
 
 ## Usage 
