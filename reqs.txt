@@ -1,0 +1,30 @@
+# Database
+psycopg2-binary
+
+# HTTP / Crawling
+aiohttp
+requests
+beautifulsoup4
+trafilatura
+readability-lxml
+
+# Vector Database
+chromadb
+
+# Terminal UI
+rich
+
+# LLM
+ollama
+
+# Embeddings / RAG
+sentence-transformers
+
+# Optional but commonly required by Chroma
+numpy
+onnxruntime
+tokenizers
+transformers
+
+# Utilities
+lxml
