@@ -18,6 +18,16 @@ The more you feed Hungry AI, the more it understands your projects, interests, w
 
 *A Retrieval-Augmented Generation (RAG) system that searches, retrieves, and reasons over external knowledge sources to generate accurate, context-aware responses. With built in web and document crawlers.*
 
+## Setup 
+```pip install -r reqs.txt```
+**Postgres setup**
+```sudo -u postgres psql
+CREATE DATABASE ragdb;
+CREATE USER raguser WITH PASSWORD 'ragpass';
+GRANT ALL PRIVILEGES ON DATABASE ragdb TO raguser;
+```
+
+
 ## Usage 
 **Main.py**
 - /help
