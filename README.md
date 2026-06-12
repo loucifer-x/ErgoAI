@@ -21,7 +21,8 @@ The more you feed Hungry AI, the more it understands your projects, interests, w
 ## Setup 
 ```pip install -r reqs.txt```
 **Postgres setup**
-```sudo -u postgres psql
+```
+sudo -u postgres psql
 CREATE DATABASE ragdb;
 CREATE USER raguser WITH PASSWORD 'ragpass';
 GRANT ALL PRIVILEGES ON DATABASE ragdb TO raguser;
