@@ -290,15 +290,6 @@ delete subcategory <category> <subcategory>
 
 ---
 
-## Why Hungry AI?
-
-Most AI assistants start every conversation with the same generic knowledge.
-
-Hungry AI is different.
-
-By continuously ingesting and retrieving information from your documents, websites, codebases, notes, and research, it develops a knowledge base unique to you. The result is an AI assistant that understands your work, remembers what matters, and provides answers grounded in your own data.
-
-
 
 
 
