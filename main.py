@@ -42,10 +42,7 @@ import config
 from config import configure_logging
 from rag import get_chroma_collection, retrieve_context, format_context_block, get_db_count
 
-########################
-#hacker
-from hack import connection
-########################
+
 
 configure_logging()
 logger = logging.getLogger(__name__)
