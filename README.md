@@ -4,7 +4,6 @@ A privacy-first, fully local AI assistant with RAG (Retrieval-Augmented Generati
 
 <img src="main.png" width="1000" alt="Ergo demo" /> 
 
-<img src="ingest.png" width="1000" alt="Ergo demo" />
 
 ---
 
@@ -138,6 +137,9 @@ If the function returns a string, Ergo will ask whether to forward the output to
 ## Ingesting Documents
 
 Use `ingest.py` to populate the vector store.
+
+<img src="ingest.png" width="1000" alt="Ergo demo" />
+
 
 **Ingest local files** (`.md`, `.txt`, `.pdf`):
 
